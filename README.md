@@ -7,7 +7,7 @@ O estudo foi feito com Python, utilizando bibliotecas de análise e visualizaç�
 
  ## Sobre o Projeto
 
--** Objectivo:**  identificar padrões nos dados que estejam associados à inadimplência.
+- ** Objectivo:**  identificar padrões nos dados que estejam associados à inadimplência.
 - **Ferramentas utilizadas:** Python, Pandas, Seaborn, Matplotlib, RandomForest, xgboost.
 - **Fonte dos dados:** (https://www.kaggle.com/) 
 
@@ -23,10 +23,12 @@ O estudo foi feito com Python, utilizando bibliotecas de análise e visualizaç�
 
 ##  Links Úteis
 
--  Notebook no Kaggle: (https://www.kaggle.com/charnicemathe) 
--  Repositório no GitHub:(https://github.com/Charnice-Mathe/AnaliseCredito-Inadimplencia)
+ Notebook no Kaggle: (https://www.kaggle.com/charnicemathe) 
+  Repositório no GitHub:(https://github.com/Charnice-Mathe/AnaliseCredito-Inadimplencia)
 
+## Visualização das Análises
 
+O notebook completo com todas as análises (gráficos, estatísticas, modelos e conclusões) está disponível neste repositório: (credito_default.ipynb)
 
 ## Observação
 
